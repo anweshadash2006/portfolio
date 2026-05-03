@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Full stack developer portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "developer"
+  ],
+  "author": "Anwesha Dash",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
